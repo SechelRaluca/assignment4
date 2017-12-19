@@ -1,0 +1,6 @@
+DELETE FROM Packagee;
+DELETE FROM User;
+DELETE FROM Role;
+DELETE FROM Route_RoutePair;
+DELETE FROM RoutePair;
+DELETE FROM Route;

@@ -1,0 +1,3 @@
+interfaces/AdminService.class
+implementation/AdminServiceImpl.class
+publisher/AdminPublisher.class
